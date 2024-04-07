@@ -5,25 +5,11 @@ Introducing a novel concept in cybersecurity: the friendly malware! Contrary to 
 # Welcome to the Wordle Malware! 🎬
 
 # Table of Contents
-- [About Us](#about-us)
 - [Features](#features)
-- [Useful Resources](#useful-resources)
-- [Fun fact](#fun-fact)
 - [Technology Stack](#technology-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Model Architecture](#model-architecture)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Join us](#join-us)
-- [Contact](#contact)
-
-## 🙋‍♀️ About Us
-
-We are at the forefront of creating a revolutionary movie recommendation experience, blending cutting-edge technology with a deep passion for cinema. Our team is pioneering the development of a graph-based attention model to intuitively connect users with movies, ensuring every recommendation is a gateway to a new adventure.
 
 ## 🛠️ Features
 
