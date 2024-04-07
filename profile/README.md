@@ -1,14 +1,11 @@
 # Hi there 👋
 
-This is CineDeepMatch (CDM), a real-time user-preference-oriented movie-recommendation system that runs asynchronously in seconds with the user's command.  
+Introducing a novel concept in cybersecurity: the friendly malware! Contrary to traditional malicious software, this malware has a rather benevolent purpose. It encrypts only the .txt files within the current folder where it resides, ensuring that your data remains secure from unauthorized access. But here's the catch: decrypting your files is as simple as solving a game of Wordle!
 
-This GitHub is dedicated to a research project called: "CineDeepMatch: Harnessing Mathematics for a Sequential Model for Amplifying Temporal User Preferences."
-
-# Welcome to the Future of Movie Recommendations! 🎬
+# Welcome to the Wordle Malware! 🎬
 
 # Table of Contents
 - [About Us](#about-us)
-- [Project Overview](#project-overview)
 - [Features](#features)
 - [Useful Resources](#useful-resources)
 - [Fun fact](#fun-fact)
@@ -28,58 +25,28 @@ This GitHub is dedicated to a research project called: "CineDeepMatch: Harnessin
 
 We are at the forefront of creating a revolutionary movie recommendation experience, blending cutting-edge technology with a deep passion for cinema. Our team is pioneering the development of a graph-based attention model to intuitively connect users with movies, ensuring every recommendation is a gateway to a new adventure.
 
-## 🚀 Project Overview
-
-Our project is an ambitious endeavor to redefine the landscape of movie recommendations. Here's what sets us apart:
-
-- **Personalized Experience**: At the heart of our system lies a graph-based attention model, designed to analyze complex user-movie interactions and deliver personalized recommendations that resonate with individual preferences and undiscovered tastes.
-
-- **Innovative Technology**: We leverage the latest advancements in machine learning, graph theory, and data analytics to understand nuances in user behavior and movie attributes. Our model dynamically adjusts to evolving preferences, ensuring a consistently relevant and engaging user experience.
-
-- **Scalable Architecture**: Built with scalability in mind, our system is capable of accommodating an ever-growing user base and movie database without compromising on performance.
-
-- **Community-Driven Approach**: We believe in the power of community collaboration to drive innovation. Our project is not just a platform but a growing ecosystem where movie enthusiasts and tech visionaries come together.
-
-This project combines graph neural networks with attention mechanisms to analyze user preferences and movie characteristics in unprecedented detail. Our goal is to create a scalable, efficient, and highly accurate movie recommendation system that adapts to individual tastes and evolving trends.
-
 ## Features
 
-- **Personalized Movie Recommendations**: Tailor suggestions to individual user preferences and interaction histories.
-- **Graph-Based Attention Model**: Utilize advanced graph neural networks and attention mechanisms to interpret complex user-movie relationships.
-- **Scalable and Efficient**: Designed for performance, handling large-scale data with minimal latency.
-- **Dynamic User Profiling**: Continuously update user profiles to reflect changing preferences and interaction patterns.
-
-## 👩‍💻 Useful Resources
-
-- **Get Started**: Familiarize yourself with our system by diving into our [Documentation](docs/).
-- **Community Discussions**: Share your ideas, ask questions, or connect with fellow contributors on our [Discussions](https://github.com/<your-username>/advanced-movie-recommendation/discussions) page.
-
-## 🍿 Fun Facts
-
-Did you know our team's favorite movie genre is Sci-Fi? Perhaps that's why we're always excited about using futuristic technology to solve age-old questions of "What should I watch next?"
-
-Together, let's transform movie watching into an endlessly exciting journey of discovery. Thank you for being part of this adventure! 🌟
+- **Selective Encryption**: The friendly malware targets only .txt files within its current directory, ensuring that your textual data remains secure.
+- **Decryption via Wordle**: Rather than demanding a ransom, decryption of encrypted files is tied to a Wordle challenge. Solve the puzzle, and your files are decrypted!
+- **Server Interaction**: To facilitate decryption, the malware communicates with a remote server, where the symmetric key is securely stored.
 
 ## Technology Stack
 
 - **Programming Languages**: Python
-- **Machine Learning Frameworks**: PyTorch, TensorFlow
-- **Graph Processing**: DGL, Neo4j
-- **Frontend**: ReactJS (for demonstration purposes)
-- **Backend**: Flask/Django
-- **Database**: PostgreSQL, Redis (for caching)
-
+- **Cryptography**: Fernet
+- **Library**: sqlalchemy, nltk, rich
+- **Backend**:  FastAPI, Docker
+- **Database**: PostgreSQL
+  
 ## Getting Started
 
 ### Prerequisites
 
-- Python 3.8+
-- Node.js 12+ (for ReactJS frontend)
-- Docker (optional for containerization)
-
+- Docker
 ### Installation
 
-Clone the repository and set up a virtual environment:
+Clone the repository
 
 ```
 git clone https://github.com/<your-username>/advanced-movie-recommendation.git
